@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Rishita Yadav"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Rishita Yadav"
+description              : &description "Researcher in Computer Vision, Deep Learning, and Marine Ecosystem Monitoring"
 url                      : https://ry2501.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ry2501/ry2501.github.io"
@@ -23,11 +23,11 @@ repository               : "ry2501/ry2501.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Rishita Yadav"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Researcher in Computer Vision, Deep Learning, and Marine Ecosystem Monitoring"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Research Institution"
   uri              : # URL
   email            : "none@example.org" 
 
