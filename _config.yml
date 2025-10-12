@@ -22,7 +22,7 @@ repository               : "ry2501/ry2501.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "rishita.jpeg"
   name             : "Rishita Yadav"
   pronouns         : # example: "she/her"  
   bio              : "Researcher in Computer Vision, Deep Learning, and Marine Ecosystem Monitoring"
