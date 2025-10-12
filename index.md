@@ -11,7 +11,7 @@ I am a researcher focused on signal processing, computer vision, and deep learni
 - **Computational Neuroscience**: Signal processing and AI methods for EEG and ECG analysis in sleep disorder detection  
 - **High-Performance Computing (CUDA Optimization)**: Acceleration of deep learning and image processing algorithms using GPU computing  
 - **Biomedical Signal Processing**: Advanced wavelet and machine learning techniques for early Alzheimer’s and sleep disorder detection  
-- **AI for Healthcare**: Integrating cloud-based machine learning systems for scalable
+- **AI for Healthcare**: Integrating cloud-based machine learning systems for scalable biomedical research.
 
 ## Recent Work
 
