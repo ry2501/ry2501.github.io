@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant: Applied Machine Learning on Cloud | COMS6998E "
+title: "Teaching Assistant: Applied Machine Learning on Cloud, COMS6998E "
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2024-spring-applied-machine-learning-cloud
@@ -10,4 +10,4 @@ course_code: "COMS6998E"
 semester: "Spring 2024"
 ---
 
-This course focuses on practical applications of machine learning using cloud computing platforms. Students learn to deploy, scale, and optimize ML models in cloud environments, covering topics such as distributed training, model serving, and cloud-native ML pipelines.
+This course focuses on practical applications of machine learning using cloud computing platforms. Students learn to deploy, scale, and optimize ML models in cloud environments, covering topics such as distributed training, model serving, and cloud-native ML pipelines. Offered by prof. IHsin and Seetharami.
