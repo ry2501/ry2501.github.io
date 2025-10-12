@@ -3,8 +3,6 @@ layout: single
 author_profile: true
 ---
 
-# Welcome to Rishita Yadav's Academic Website
-
 I am a researcher focused on computer vision, deep learning, and marine ecosystem monitoring. My work combines advanced machine learning techniques with environmental conservation efforts.
 
 ## Research Interests
