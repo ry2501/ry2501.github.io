@@ -1,5 +1,5 @@
 ---
-title: "Applied Machine Learning on Cloud"
+title: "Teaching Assistant: Applied Machine Learning on Cloud | COMS6998E "
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2024-spring-applied-machine-learning-cloud

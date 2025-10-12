@@ -1,5 +1,5 @@
 ---
-title: "Digital Communication"
+title: "Course Assistant: Digital Communication | ELENE4702"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2024-spring-digital-communication

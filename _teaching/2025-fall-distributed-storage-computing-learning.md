@@ -1,5 +1,5 @@
 ---
-title: "Distributed Storage, Computing, and Learning"
+title: "Course Assistant: Distributed Storage, Computing, and Learning | EECSE6896"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2025-fall-distributed-storage-computing-learning
